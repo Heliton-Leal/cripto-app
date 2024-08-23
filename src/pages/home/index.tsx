@@ -41,7 +41,7 @@ export function Home() {
               1T
             </td>
             
-            <td className={styles.tdLabel} data-label="Preço">
+            <td className={styles.tdLabel} data-label="Preço Final">
               8.000
             </td>
 
